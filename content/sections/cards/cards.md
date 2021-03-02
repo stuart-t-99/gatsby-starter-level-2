@@ -16,14 +16,7 @@ cards:
     icon: terminal
     prefix: fas
     description: A notification system that gets real time outage information to customers via the channel of their choice. A reduction in contacts and improved customer satisfaction
-  - label: zz
-    icon: react
-    prefix: fab
-    description: zz
-  - label: zz
-    icon: feather-alt
-    prefix: fas
-    description: zz
+
 ---
 
 This Card-Grid component allows you to display predefined cards. You could use it like us and display features with it or you could also use it to display the services you provide for your customer. Go ahead and adjust the component to your own needs.
