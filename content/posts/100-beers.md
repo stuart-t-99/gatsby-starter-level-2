@@ -1,15 +1,15 @@
 ---
-date: 2020-05-31
-title: '100 Beers you must try'
-tags: ['Drinks', 'Beer', 'Craft']
+date: 2020-03-1
+title: 'Welcome to my bio'
+tags: ['Analytics', 'Automation', 'Strategy']
 published: true
 cover_image: ./images/beer.jpg
 canonical_url: false
-description: 'Here is my personal list for the 100 beers you should try! At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.'
+description: 'My bio.'
 ---
 
-# Beers
+# About me
 
-1. Some beer
-2. Another beer
-3. Some Craft Beer
+1. aa
+2. bb
+3. cc
