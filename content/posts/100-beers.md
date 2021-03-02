@@ -1,5 +1,5 @@
 ---
-date: 2020-03-1
+date: 2021-03-03
 title: 'Welcome to my bio'
 tags: ['Analytics', 'Automation', 'Strategy']
 published: true
