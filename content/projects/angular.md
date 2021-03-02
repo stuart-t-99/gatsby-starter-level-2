@@ -1,10 +1,14 @@
 ---
-featured: false
-date: '2010-03-19'
-title: 'Angular'
+featured: true
+date: '2021-03-03'
+title: 'Fraud detection'
 repo_link: 'https://github.com/angular/angular'
 demo_link: 'https://angular.io/'
-techs: ['Typescript', 'Angular', 'Ngrx', 'Rxjs', 'Material']
+techs: ['AWS', 'DynamoDB', 'Salesforce', 'Salesforce Marketing Cloud', 'Appian', 'Braintree', 'Kount', 'XOM', 'Vlocity',]
 ---
 
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+The key problem to solve was that fraud was impacted EBITDA.
+
+The solution was to assess the hourly call data feeds and where an anomaly was detected, that was highly likely fraud, an end to end automation would contact the customer, make the required changes to the service and then ensure all details were either written or retried from key downstrem system.
+
+The result was a multi million dollar improvement in EBITDA.
